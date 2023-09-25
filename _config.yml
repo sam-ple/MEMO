@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://sam-ple.github.io'
-baseurl:          '/memo'
+baseurl:          'https://sam-ple.github.io/MEMO/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
