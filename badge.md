@@ -4,7 +4,7 @@
 
 * * *
 
-## 『日商簿記』
+## ⭐『日商簿記』
 
 > 正式名称は「日本商工会議所簿記検定試験」または「日商簿記検定試験」
 
@@ -31,7 +31,7 @@
 
 * * *
 
-## 『ITパスポート』
+## ⭐『ITパスポート』
 
 ![ITパスポート](https://img.shields.io/badge/ITパスポート-合格-FFD700.svg)
   
@@ -50,7 +50,7 @@
 
 * * *
 
-## 『税理士』
+## ⭐『税理士』
 
 ![税理士登録](https://img.shields.io/badge/税理士-登録-FFD700.svg)
 ![税理士試験合格](https://img.shields.io/badge/税理士-合格-C0C0C0.svg)
@@ -92,7 +92,7 @@
 
 * * *
 
-## 『FP』
+## ⭐『FP』
 
 ![FP1級](https://img.shields.io/badge/FP-1級-FFD700.svg)
 ![FP2級](https://img.shields.io/badge/FP-2級-C0C0C0.svg)
@@ -167,7 +167,7 @@
 
 * * *
 
-## 『色見本』
+## ⭐『色見本』
 ![色](https://img.shields.io/badge/色-FFD700-FFD700.svg)
 ![色](https://img.shields.io/badge/色-C0C0C0-C0C0C0.svg)
 ![色](https://img.shields.io/badge/色-C47222-C47222.svg)
