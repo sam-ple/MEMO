@@ -1,3 +1,6 @@
+<script src="https://sam-ple.github.io/MEMO/js/fastyt.nojq.js" type="text/javascript"></script>
+<link href="https://sam-ple.github.io/MEMO/css/fastyt.css" rel="stylesheet" type="text/css">
+
 <style>
 .youtube {
   width: 100%;
