@@ -2,6 +2,7 @@
 .youtube {
   width: 100%;
   aspect-ratio: 16 / 9;
+  max-width: 600px;
 }
 .youtube iframe {
   width: 100%;
