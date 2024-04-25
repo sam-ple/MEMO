@@ -73,15 +73,7 @@
 ### FP協会実技対策（資産設計提案業務）
 
 <div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r-UJoQaFrJc?si=JWZ9PaxqQ_WvimKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEsJz81mbss?si=M28uUWNaZuUHO4_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0woNJr3eAN8?si=NoovxHBn9mejoCVL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="youtube">
