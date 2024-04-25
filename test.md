@@ -2,7 +2,8 @@
 .youtube {
   width: 100%;
   aspect-ratio: 16 / 9;
-  max-width: 600px;
+  max-width: 300px;
+  padding-bottom:30px;
 }
 .youtube iframe {
   width: 100%;
@@ -68,6 +69,18 @@
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ABL778MuxUA?si=XsrC-dtLu1VAOXn-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZpWZA3ERNT0?si=S3quccxIIz7aJPGS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yT99EIQmBJI?si=L3RUPx9GohJrWqLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eCfj-HiEAw8?si=rhbQDTs0dWwXyDdv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### FP協会実技対策（資産設計提案業務）
