@@ -20,7 +20,12 @@
 
 ### FP直前対策
 
-### あ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7DiZzDqx8Q?si=qP21lfA5fQJF3LFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlthpSXjxic?si=Gmavc3RzLzSID7oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9LAuvVB80o?si=ew47ittjTQS6r22b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 ### FP協会学科対策
 
