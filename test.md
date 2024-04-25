@@ -3,11 +3,15 @@
   width: 100%;
   aspect-ratio: 16 / 9;
   max-width: 300px;
-  padding-bottom:30px;
+  padding:0 30px 30px 0;
+  float: left;
 }
 .youtube iframe {
   width: 100%;
   height: 100%;
+}
+.markdown-body h2, .markdown-body h3 {
+  clear: both;
 }
 </style>
 
