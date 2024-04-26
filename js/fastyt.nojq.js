@@ -1,4 +1,4 @@
-/*
+﻿/*
   YouTube 初回表示軽量化スクリプト
   Copyright Rectus Inc, 2024/01/19 Ver 1.03
   javascript版
