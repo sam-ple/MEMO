@@ -1,22 +1,6 @@
 <script src="https://sam-ple.github.io/MEMO/js/fastyt.nojq.js" type="text/javascript"></script>
 <link href="https://sam-ple.github.io/MEMO/css/fastyt.css" rel="stylesheet" type="text/css">
-
-<style>
-.youtube {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  max-width: 300px;
-  padding:0 30px 30px 0;
-  float: left;
-}
-.youtube iframe {
-  width: 100%;
-  height: 100%;
-}
-.markdown-body h2, .markdown-body h3, .markdown-body h4 {
-  clear: both;
-}
-</style>
+<link href="https://sam-ple.github.io/MEMO/css/test.css" rel="stylesheet" type="text/css">
 
 ## FP3級（日本FP協定）
 
