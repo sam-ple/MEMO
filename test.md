@@ -13,7 +13,7 @@
   width: 100%;
   height: 100%;
 }
-.markdown-body h2, .markdown-body h3 {
+.markdown-body h2, .markdown-body h3, .markdown-body h4 {
   clear: both;
 }
 </style>
