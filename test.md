@@ -2,6 +2,18 @@
 <link href="https://sam-ple.github.io/MEMO/css/fastyt.css" rel="stylesheet" type="text/css">
 <link href="https://sam-ple.github.io/MEMO/css/test.css" rel="stylesheet" type="text/css">
 
+<script>
+  function youtube_defer() {
+    var iframes = document.querySelectorAll('.youtube');
+    iframes.forEach(function(iframe){
+      if(iframe.getAttribute('data-src')) {
+        iframe.setAttribute('src',iframe.getAttribute('data-src'));
+      }
+    });
+  }
+  window.addEventListener('load', youtube_defer);
+</script>
+
 ## FP3級（日本FP協定）
 
 ### 参考サイト
