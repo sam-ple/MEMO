@@ -1,34 +1,14 @@
 <script src="https://sam-ple.github.io/MEMO/js/fastyt.nojq.js" type="text/javascript"></script>
 <link href="https://sam-ple.github.io/MEMO/css/fastyt.css" rel="stylesheet" type="text/css">
 <link href="https://sam-ple.github.io/MEMO/css/test.css" rel="stylesheet" type="text/css">
-
-<script>
-  function youtube_defer() {
-    var iframes = document.querySelectorAll('.youtube');
-    iframes.forEach(function(iframe){
-      if(iframe.getAttribute('data-src')) {
-        iframe.setAttribute('src',iframe.getAttribute('data-src'));
-      }
-    });
-  }
-  window.addEventListener('load', youtube_defer);
-</script>
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script>
-$(function(){
-  $('.youtube').each(function() {
-    var iframe = $(this).children('iframe');
-    var url = iframe.attr('data-src');
-    var id = url.match(/[\/?=]([a-zA-Z0-9_-]{11})[&\?]?/)[1];
-    iframe.before('<img src="http://img.youtube.com/vi/'+id+'/mqdefault.jpg" />').remove();
-    $(this).on('click', function() {
-      $(this).after('<div class="youtube"><iframe src="https://www.youtube.com/embed/'+id+'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>').remove();
-    });
-  });
-});
-</script>
 
+<div class="frame_wrap">
+  <div class="youtube">
+    <iframe data-src="https://www.youtube.com/embed/e6_R3q-MsI4" allowfullscreen></iframe>
+  </div>
+  <div class="arrow"></div>
+</div>
 
 ## FP3級（日本FP協定）
 
