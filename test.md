@@ -1,8 +1,8 @@
-<script src="https://sam-ple.github.io/MEMO/js/fastyt.nojq.js" type="text/javascript"></script>
-<link href="https://sam-ple.github.io/MEMO/css/fastyt.css" rel="stylesheet" type="text/css">
-<link href="https://sam-ple.github.io/MEMO/js/test.js" rel="stylesheet" type="text/css">
-<link href="https://sam-ple.github.io/MEMO/css/test.css" rel="stylesheet" type="text/css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://sam-ple.github.io/MEMO/js/fastyt.nojq.js" type="text/javascript"></script>
+<script src="https://sam-ple.github.io/MEMO/js/test.js" type="text/javascript"></script>
+<link href="https://sam-ple.github.io/MEMO/css/fastyt.css" rel="stylesheet" type="text/css">
+<link href="https://sam-ple.github.io/MEMO/css/test.css" rel="stylesheet" type="text/css">
 
 <div class="frame_wrap">
   <div class="youtube">
