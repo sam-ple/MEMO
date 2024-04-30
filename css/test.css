@@ -12,3 +12,48 @@
 .markdown-body h2, .markdown-body h3, .markdown-body h4 {
   clear: both;
 }
+
+.frame_wrap {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 動画の比率　*/
+  overflow: hidden;
+}
+.frame_wrap .arrow,
+.frame_wrap .arrow::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  transform: translate(-50%,-50%);
+}
+.frame_wrap .arrow {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+  background-color: rgba(255,255,255,.8); /* 矢印背景色　*/
+  pointer-events: none;
+}
+.frame_wrap .arrow::before {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 8px 0 8px 12px;
+  border-color: transparent transparent transparent #222; /* 矢印色　*/
+}
+.frame_wrap img {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: auto;
+  transform: translateY(-50%);
+}
+.frame_wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
